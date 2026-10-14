@@ -1,24 +1,22 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | Information technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Mini Project lab
+<b> Experiment|    Measurement_of_hall_effect-_in_semiconductor
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Anuj Yadav
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | REC Banda
+<b> Email id|   2507340130016@recbanda.ac.in
+<b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Anuj Yadav | Student | IT | REC Banda |  2507340130016@recbanda.ac.in
