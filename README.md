@@ -3,7 +3,7 @@
 
 <b>Discipline | IT
 :--|:--|
-<b> Lab | <b> Mini Project lab
+<b> Lab | <b> Mini Project Lab
 <b> Experiment|    Measurement_of_hall_effect-_in_semiconductor
 ### About the Experiment 
 
