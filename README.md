@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | Information technology
+<b>Discipline | IT
 :--|:--|
 <b> Lab | <b> Mini Project lab
 <b> Experiment|    Measurement_of_hall_effect-_in_semiconductor
